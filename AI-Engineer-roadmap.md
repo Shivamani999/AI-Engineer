@@ -27,9 +27,8 @@
 
 ### Resources
 
-* Python Official Documentation
-* Automate the Boring Stuff with Python
-* Python Crash Course
+<a href="https://docs.python.org/3/" target="_blank">Python Official Docs</a><br>
+<a href="https://youtu.be/YZkyL-f-YXY?si=9ZciH7FacjuOnbgF" target="_blank">Python Telusko Youtube</a><br>
 
 ---
 
