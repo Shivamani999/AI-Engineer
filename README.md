@@ -1,1 +1,3 @@
 # AI-Engineer
+
+## MAIN GOAL: Everyone has to learn AI with ease...
